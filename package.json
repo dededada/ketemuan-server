@@ -1,0 +1,15 @@
+{
+  "name": "ketemuan-server",
+  "version": "0.1.0",
+  "description": "Server side of ketemuan",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github-dede:dededada/ketemuan-server.git"
+  },
+  "author": "Dede Dada",
+  "license": "ISC"
+}
